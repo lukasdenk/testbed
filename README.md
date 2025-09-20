@@ -35,7 +35,7 @@ It is straightforward to add further tools to the testbed (see [Add a tool to th
 1. Go to the project directory
 2. For help execute:  
     `./testbed.sh --help` or  
-    `./testbed.sh {analyzer|server|update|remove} --help`
+    `./testbed.sh {analyze|server|update|remove} --help`
 3. **(!!!)** For the `analyze` or `server` command, please run as _super user_.
 
 ### Examples
